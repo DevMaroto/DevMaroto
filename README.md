@@ -1,6 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Pedro Paulo Teodoro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Welcome%20%&fontSize=45) 
+<br>
+<br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f416&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Paulo+Teodoro;I'm+29+years+old;I+from+Uberlândia,+MG;I+study+Systems+Analyst+Developer+at+Pitágoras;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f416&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Paulo+Teodoro;I'm+29+years+old;I+from+Uberlândia,+MG;I+study+Systems+Analyst+Developer+at+Pitágoras;Have+a+Good+Time!+:%29)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
 
 <!--
 **DevMaroto/DevMaroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +59,6 @@ Here are some ideas to get you started: -->
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DevMaroto}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f416b&height=120&section=footer"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=%&fontSize=90)
 
 
